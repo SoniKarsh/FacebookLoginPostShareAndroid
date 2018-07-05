@@ -40,7 +40,7 @@
         </activity>
         <activity android:name=".Main2Activity"></activity>
 
-        <provider android:authorities="com.facebook.app.FacebookContentProvider{241461956472612}"
+        <provider android:authorities="com.facebook.app.FacebookContentProvider{App Id}"
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true"/>
 
